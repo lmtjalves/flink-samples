@@ -1,0 +1,235 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anon$2$$anon$1.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anon$2$$anonfun$createSerializer$1.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anon$2.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$1.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$2$$anonfun$apply$1.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$2.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$3.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$.class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount.class
+binary dependencies:
+6 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.1.0.jar
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.1.0.jar
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/jars/flink-streaming-java_2.11-1.1.0.jar
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/.ivy2/cache/org.apache.flink/flink-streaming-scala_2.11/jars/flink-streaming-scala_2.11-1.1.0.jar
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> /Users/lalves/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$$anon$2
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$$anon$2$$anon$1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$$anon$2$$anonfun$createSerializer$1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$$anonfun$1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$$anonfun$2
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$$anonfun$2$$anonfun$apply$1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink.samples.WindowWordCount$$anonfun$3
+used names:
+112 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> $anon
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> <init>
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> <refinement>
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> <repeated>
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> ?0
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> A
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Any
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> AnyRef
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Array
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> ArrayOps
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> B
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> BasicTypeInfo
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Boolean
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> CaseClassSerializer
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> CaseClassTypeInfo
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Char
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Class
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> ClassTag
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> DataStream
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> DataStreamSink
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> ExecutionConfig
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Function1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Int
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> JobExecutionResult
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> KeyedStream
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> List
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Long
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Nothing
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Object
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Predef
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> R
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Range
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> RichInt
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Seq
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> StreamExecutionEnvironment
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> String
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> StringOps
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> T
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> T0
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> T1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> T2
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Time
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> TimeWindow
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> TraversableOnce
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Tuple
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Tuple2
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> TypeInformation
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> TypeSerializer
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> U
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> Unit
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> WindowWordCount
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> WindowedStream
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> X
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> _$1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> _$2
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> _$4
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> _$5
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> _$6
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> _1
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> apache
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> api
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> apply
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> asInstanceOf
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> augmentString
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> collection
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> counts
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> createSerializer
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> createTypeInformation
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> env
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> execute
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> executionConfig
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> fieldSerializers
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> fields
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> filter
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flatMap
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> flink
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> foreach
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> getArity
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> getExecutionEnvironment
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> getInfoFor
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> getTypeClass
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> i
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> immutable
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> implicitly
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> intWrapper
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> keyBy
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> map
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> materializeClassTag
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> nonEmpty
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> org
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> package
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> print
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> println
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> protected$types
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> refArrayOps
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> s
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> samples
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> scala
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> seconds
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> socketTextStream
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> split
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> streaming
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> sum
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> text
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> time
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> timeWindow
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> toArray
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> toLowerCase
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> types
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> until
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> update
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> windowing
+product stamps:
+9 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anon$2$$anon$1.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anon$2$$anonfun$createSerializer$1.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anon$2.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$1.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$2$$anonfun$apply$1.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$2.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$$anonfun$3.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount$.class -> lastModified(1488750687000)
+/Users/lalves/Projects/flink-samples/WindowWordCount/target/scala-2.11/classes/flink/samples/WindowWordCount.class -> lastModified(1488750687000)
+source stamps:
+1 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> hash(c6bead1e82968a25367c2dba6a296f8c342df34d)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466622116000)
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.1.0.jar -> lastModified(1470171142000)
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.1.0.jar -> lastModified(1470169003000)
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/jars/flink-streaming-java_2.11-1.1.0.jar -> lastModified(1470168933000)
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-streaming-scala_2.11/jars/flink-streaming-scala_2.11-1.1.0.jar -> lastModified(1470169175000)
+/Users/lalves/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar -> lastModified(1397639609000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.1.0.jar -> org.apache.flink.api.java.tuple.Tuple
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.1.0.jar -> org.apache.flink.api.scala.typeutils.CaseClassTypeInfo
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/jars/flink-streaming-java_2.11-1.1.0.jar -> org.apache.flink.streaming.api.windowing.windows.TimeWindow
+/Users/lalves/.ivy2/cache/org.apache.flink/flink-streaming-scala_2.11/jars/flink-streaming-scala_2.11-1.1.0.jar -> org.apache.flink.streaming.api.scala.StreamExecutionEnvironment$
+/Users/lalves/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar -> scala.collection.TraversableLike
+internal apis:
+1 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw3XyPIQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwY0bGVnQABm5vdGlmeXNxAH4ADIu46/N0AAR3YWl0c3EAfgAMomuUJHQADSRhc0luc3RhbmNlT2ZzcQB+AAzu0jj6dAAGZXF1YWxzc3EAfgAMb6uBXnQADGFzSW5zdGFuY2VPZnNxAH4ADHGMj3l0AAxzeW5jaHJvbml6ZWRzcQB+AAye9clOdAANJGlzSW5zdGFuY2VPZnNxAH4ADAx1qOh0AARtYWluc3EAfgAM/0sYH3QACW5vdGlmeUFsbHNxAH4ADKUsgvp0AAxpc0luc3RhbmNlT2ZzcQB+AAxPXnYldAACPT1zcQB+AAzBVg2adAAFY2xvbmVzcQB+AAwHBSrTdAAPV2luZG93V29yZENvdW50c3EAfgAM8IMyIXQACHRvU3RyaW5nc3EAfgAMr6G+dHQAAiE9c3EAfgAMCQ4AmXQACGdldENsYXNzc3EAfgAM44DMAXQAAm5lc3EAfgAMjlz/tHQAAmVxc3EAfgAM4fLP+nQAAiMjc3EAfgAM5qbUyHQACGZpbmFsaXplc3EAfgAMTIzG9HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHWZsaW5rLnNhbXBsZXMuV2luZG93V29yZENvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADWZsaW5rLnNhbXBsZXNzcQB+AKZ0AAVmbGlua3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqB0lXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOL1VzZXJzL2xhbHZlcy9Qcm9qZWN0cy9mbGluay1zYW1wbGVzL1dpbmRvd1dvcmRDb3VudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxr6tHoKWiiU2fC26ailvjDQt800=
+external apis:
+0 items
+source infos:
+1 items
+/Users/lalves/Projects/flink-samples/WindowWordCount/src/main/scala/flink/samples/WindowWordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+13 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWp+nFTx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWp+yANN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWp+8fZB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWp/TEBx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWp/tzvx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWp/xM6N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWp/2oLB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqAaQ2h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqA+wzF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqBAS2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqBYMgJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqBcUiN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqB0lXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9sYWx2ZXMvUHJvamVjdHMvZmxpbmstc2FtcGxlcy9XaW5kb3dXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

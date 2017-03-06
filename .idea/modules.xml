@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flink-samples.iml" filepath="$PROJECT_DIR$/.idea/modules/flink-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flink-samples-build.iml" filepath="$PROJECT_DIR$/.idea/modules/flink-samples-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/windowWordCount.iml" filepath="$PROJECT_DIR$/.idea/modules/windowWordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/windowWordCount-build.iml" filepath="$PROJECT_DIR$/.idea/modules/windowWordCount-build.iml" />
+    </modules>
+  </component>
+</project>

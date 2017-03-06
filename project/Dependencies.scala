@@ -1,5 +1,7 @@
 import sbt._
 
 object Dependencies {
-  lazy val scalaTest = "org.scalatest" %% "scalatest" % "3.0.1"
+  lazy val flinkScala = "org.apache.flink" %% "flink-scala" % "1.1.0" % "provided"
+  lazy val flinkStreaming = "org.apache.flink" %% "flink-streaming-scala" % "1.1.0" % "provided"
+  lazy val flinkClients = "org.apache.flink" %% "flink-clients" % "1.1.0" % "provided"
 }
