@@ -2,10 +2,11 @@ import Dependencies._
 
 lazy val commonSettings = Seq(
   organization := "com.example",
-  scalaVersion := "2.11.0",
+  scalaVersion := "2.10.0",
   version      := "0.1.0-SNAPSHOT",
+  resolvers += Resolver.mavenLocal,
   libraryDependencies += flinkScala,
-  libraryDependencies += flinkStreaming,
+  libraryDependencies += flinkStreaming changing(),
   libraryDependencies += flinkClients
 )
 
